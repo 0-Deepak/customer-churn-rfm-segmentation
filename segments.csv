@@ -1,0 +1,2401 @@
+customer_id,segment
+CUST00001,At-Risk
+CUST00002,Champion
+CUST00003,At-Risk
+CUST00004,Recent Customer
+CUST00005,Infrequent - High Spender
+CUST00006,Infrequent - Low Spender
+CUST00007,Champion
+CUST00008,Infrequent - Low Spender
+CUST00009,Champion
+CUST00010,Champion
+CUST00011,Champion
+CUST00012,Loyal
+CUST00013,Infrequent - High Spender
+CUST00014,Loyal
+CUST00015,Champion
+CUST00016,At-Risk
+CUST00017,At-Risk
+CUST00018,Discount-sensitive
+CUST00019,Champion
+CUST00020,At-Risk
+CUST00021,Loyal
+CUST00022,Champion
+CUST00023,Champion
+CUST00024,Champion
+CUST00025,At-Risk
+CUST00026,Infrequent - Low Spender
+CUST00027,Loyal
+CUST00028,Loyal
+CUST00029,Infrequent - High Spender
+CUST00030,Infrequent - Low Spender
+CUST00031,Loyal
+CUST00032,Champion
+CUST00033,Infrequent - High Spender
+CUST00034,Loyal
+CUST00035,Recent Customer
+CUST00036,Infrequent - High Spender
+CUST00037,Discount-sensitive
+CUST00038,Infrequent - Low Spender
+CUST00039,Champion
+CUST00040,At-Risk
+CUST00041,Loyal
+CUST00042,Dormant
+CUST00043,Champion
+CUST00044,Loyal
+CUST00045,Discount-sensitive
+CUST00046,Recent Customer
+CUST00047,At-Risk
+CUST00048,Infrequent - Low Spender
+CUST00049,Champion
+CUST00050,Loyal
+CUST00051,At-Risk
+CUST00052,Loyal
+CUST00053,Infrequent - Low Spender
+CUST00054,Champion
+CUST00055,Infrequent - High Spender
+CUST00056,Infrequent - Low Spender
+CUST00057,Recent Customer
+CUST00058,Champion
+CUST00059,Champion
+CUST00060,Discount-sensitive
+CUST00061,Infrequent - High Spender
+CUST00062,Infrequent - Low Spender
+CUST00063,At-Risk
+CUST00064,Champion
+CUST00065,Loyal
+CUST00066,At-Risk
+CUST00067,Loyal
+CUST00068,At-Risk
+CUST00069,Champion
+CUST00070,Champion
+CUST00071,Loyal
+CUST00072,Recent Customer
+CUST00073,Champion
+CUST00074,Champion
+CUST00075,Infrequent - High Spender
+CUST00076,Champion
+CUST00077,Discount-sensitive
+CUST00078,Discount-sensitive
+CUST00079,At-Risk
+CUST00080,Loyal
+CUST00081,Infrequent - Low Spender
+CUST00082,At-Risk
+CUST00083,Discount-sensitive
+CUST00084,At-Risk
+CUST00085,Champion
+CUST00086,Infrequent - High Spender
+CUST00087,Champion
+CUST00088,Discount-sensitive
+CUST00089,At-Risk
+CUST00090,Infrequent - Low Spender
+CUST00091,Discount-sensitive
+CUST00092,Champion
+CUST00093,Loyal
+CUST00094,At-Risk
+CUST00095,Loyal
+CUST00096,Loyal
+CUST00097,Infrequent - Low Spender
+CUST00098,At-Risk
+CUST00099,At-Risk
+CUST00100,Loyal
+CUST00101,At-Risk
+CUST00102,Loyal
+CUST00103,Champion
+CUST00104,Discount-sensitive
+CUST00105,Loyal
+CUST00106,Loyal
+CUST00107,Champion
+CUST00108,Champion
+CUST00109,At-Risk
+CUST00110,Infrequent - Low Spender
+CUST00111,At-Risk
+CUST00112,Infrequent - Low Spender
+CUST00113,Champion
+CUST00114,At-Risk
+CUST00115,At-Risk
+CUST00116,At-Risk
+CUST00117,At-Risk
+CUST00118,Champion
+CUST00119,Loyal
+CUST00120,Champion
+CUST00121,Loyal
+CUST00122,Discount-sensitive
+CUST00123,Dormant
+CUST00124,At-Risk
+CUST00125,Champion
+CUST00126,Loyal
+CUST00127,Champion
+CUST00128,Champion
+CUST00129,Infrequent - Low Spender
+CUST00130,Discount-sensitive
+CUST00131,Loyal
+CUST00132,At-Risk
+CUST00133,Infrequent - Low Spender
+CUST00134,Champion
+CUST00135,At-Risk
+CUST00136,Loyal
+CUST00137,At-Risk
+CUST00138,Loyal
+CUST00139,Champion
+CUST00140,Infrequent - Low Spender
+CUST00141,Champion
+CUST00142,At-Risk
+CUST00143,Infrequent - Low Spender
+CUST00144,At-Risk
+CUST00145,Champion
+CUST00146,Discount-sensitive
+CUST00147,Infrequent - Low Spender
+CUST00148,Infrequent - Low Spender
+CUST00149,Champion
+CUST00150,Champion
+CUST00151,Infrequent - Low Spender
+CUST00152,Infrequent - Low Spender
+CUST00153,Champion
+CUST00154,Infrequent - Low Spender
+CUST00155,Infrequent - Low Spender
+CUST00156,Loyal
+CUST00157,Champion
+CUST00158,At-Risk
+CUST00159,At-Risk
+CUST00160,At-Risk
+CUST00161,Infrequent - High Spender
+CUST00162,Recent Customer
+CUST00163,Loyal
+CUST00164,At-Risk
+CUST00165,Infrequent - High Spender
+CUST00166,Champion
+CUST00167,At-Risk
+CUST00168,Loyal
+CUST00169,At-Risk
+CUST00170,Champion
+CUST00171,Champion
+CUST00172,Champion
+CUST00173,Loyal
+CUST00174,Discount-sensitive
+CUST00175,Loyal
+CUST00176,Infrequent - Low Spender
+CUST00177,Loyal
+CUST00178,Champion
+CUST00179,Infrequent - High Spender
+CUST00180,Recent Customer
+CUST00181,Champion
+CUST00182,Champion
+CUST00183,At-Risk
+CUST00184,Infrequent - Low Spender
+CUST00185,Discount-sensitive
+CUST00186,Champion
+CUST00187,At-Risk
+CUST00188,Champion
+CUST00189,Discount-sensitive
+CUST00190,Champion
+CUST00191,Champion
+CUST00192,Infrequent - Low Spender
+CUST00193,At-Risk
+CUST00194,Infrequent - Low Spender
+CUST00195,Champion
+CUST00196,Champion
+CUST00197,Loyal
+CUST00198,Infrequent - Low Spender
+CUST00199,Infrequent - Low Spender
+CUST00200,Infrequent - Low Spender
+CUST00201,At-Risk
+CUST00202,Discount-sensitive
+CUST00203,Discount-sensitive
+CUST00204,Champion
+CUST00205,Infrequent - High Spender
+CUST00206,Discount-sensitive
+CUST00207,Champion
+CUST00208,Dormant
+CUST00209,At-Risk
+CUST00210,Discount-sensitive
+CUST00211,Discount-sensitive
+CUST00212,At-Risk
+CUST00213,At-Risk
+CUST00214,Loyal
+CUST00215,Champion
+CUST00216,Loyal
+CUST00217,Loyal
+CUST00218,Champion
+CUST00219,At-Risk
+CUST00220,Champion
+CUST00221,Champion
+CUST00222,At-Risk
+CUST00223,Discount-sensitive
+CUST00224,Discount-sensitive
+CUST00225,Discount-sensitive
+CUST00226,Infrequent - Low Spender
+CUST00227,At-Risk
+CUST00228,Infrequent - High Spender
+CUST00229,At-Risk
+CUST00230,Infrequent - Low Spender
+CUST00231,Champion
+CUST00232,Loyal
+CUST00233,At-Risk
+CUST00234,Champion
+CUST00235,Discount-sensitive
+CUST00236,Loyal
+CUST00237,Infrequent - Low Spender
+CUST00238,Loyal
+CUST00239,At-Risk
+CUST00240,Loyal
+CUST00241,Loyal
+CUST00242,Infrequent - Low Spender
+CUST00243,Loyal
+CUST00244,Recent Customer
+CUST00245,Loyal
+CUST00246,Loyal
+CUST00247,Loyal
+CUST00248,Infrequent - High Spender
+CUST00249,At-Risk
+CUST00250,Champion
+CUST00251,Champion
+CUST00252,At-Risk
+CUST00253,At-Risk
+CUST00254,At-Risk
+CUST00255,Infrequent - Low Spender
+CUST00256,At-Risk
+CUST00257,Loyal
+CUST00258,Infrequent - Low Spender
+CUST00259,At-Risk
+CUST00260,Champion
+CUST00261,Loyal
+CUST00262,Champion
+CUST00263,Infrequent - High Spender
+CUST00264,Champion
+CUST00265,Loyal
+CUST00266,At-Risk
+CUST00267,Champion
+CUST00268,Champion
+CUST00269,Infrequent - Low Spender
+CUST00270,Loyal
+CUST00271,Champion
+CUST00272,Infrequent - Low Spender
+CUST00273,Infrequent - Low Spender
+CUST00274,Loyal
+CUST00275,At-Risk
+CUST00276,Loyal
+CUST00277,Champion
+CUST00278,Loyal
+CUST00279,Infrequent - Low Spender
+CUST00280,Champion
+CUST00281,Champion
+CUST00282,At-Risk
+CUST00283,Infrequent - Low Spender
+CUST00284,At-Risk
+CUST00285,Champion
+CUST00286,At-Risk
+CUST00287,Loyal
+CUST00288,Recent Customer
+CUST00289,Champion
+CUST00290,Champion
+CUST00291,Loyal
+CUST00292,Champion
+CUST00293,At-Risk
+CUST00294,Recent Customer
+CUST00295,Champion
+CUST00296,At-Risk
+CUST00297,At-Risk
+CUST00298,At-Risk
+CUST00299,At-Risk
+CUST00300,Champion
+CUST00301,Champion
+CUST00302,At-Risk
+CUST00303,Loyal
+CUST00304,Recent Customer
+CUST00305,At-Risk
+CUST00306,Infrequent - Low Spender
+CUST00307,Champion
+CUST00308,Loyal
+CUST00309,Champion
+CUST00310,Champion
+CUST00311,Loyal
+CUST00312,Loyal
+CUST00313,At-Risk
+CUST00314,Champion
+CUST00315,Infrequent - Low Spender
+CUST00316,Discount-sensitive
+CUST00317,Recent Customer
+CUST00318,Loyal
+CUST00319,Discount-sensitive
+CUST00320,Infrequent - High Spender
+CUST00321,Discount-sensitive
+CUST00322,Infrequent - Low Spender
+CUST00323,Loyal
+CUST00324,At-Risk
+CUST00325,Infrequent - Low Spender
+CUST00326,At-Risk
+CUST00327,Champion
+CUST00328,At-Risk
+CUST00329,Champion
+CUST00330,Infrequent - High Spender
+CUST00331,At-Risk
+CUST00332,Loyal
+CUST00333,Loyal
+CUST00334,Loyal
+CUST00335,At-Risk
+CUST00336,Champion
+CUST00337,Champion
+CUST00338,Champion
+CUST00339,At-Risk
+CUST00340,Infrequent - High Spender
+CUST00341,Champion
+CUST00342,Loyal
+CUST00343,At-Risk
+CUST00344,At-Risk
+CUST00345,Infrequent - Low Spender
+CUST00346,Loyal
+CUST00347,At-Risk
+CUST00348,Infrequent - Low Spender
+CUST00349,Infrequent - Low Spender
+CUST00350,Champion
+CUST00351,Infrequent - Low Spender
+CUST00352,Champion
+CUST00353,At-Risk
+CUST00354,Champion
+CUST00355,At-Risk
+CUST00356,Infrequent - Low Spender
+CUST00357,Champion
+CUST00358,Discount-sensitive
+CUST00359,Infrequent - Low Spender
+CUST00360,Champion
+CUST00361,At-Risk
+CUST00362,Infrequent - High Spender
+CUST00363,Champion
+CUST00364,At-Risk
+CUST00365,At-Risk
+CUST00366,At-Risk
+CUST00367,At-Risk
+CUST00368,Loyal
+CUST00369,Loyal
+CUST00370,At-Risk
+CUST00371,Recent Customer
+CUST00372,Loyal
+CUST00373,Loyal
+CUST00374,At-Risk
+CUST00375,Loyal
+CUST00376,Champion
+CUST00377,Infrequent - High Spender
+CUST00378,Recent Customer
+CUST00379,Loyal
+CUST00380,Infrequent - High Spender
+CUST00381,At-Risk
+CUST00382,Champion
+CUST00383,Infrequent - Low Spender
+CUST00384,Champion
+CUST00385,Infrequent - High Spender
+CUST00386,Champion
+CUST00387,Champion
+CUST00388,Champion
+CUST00389,Infrequent - Low Spender
+CUST00390,Loyal
+CUST00391,Loyal
+CUST00392,Discount-sensitive
+CUST00393,Loyal
+CUST00394,Champion
+CUST00395,Champion
+CUST00396,Infrequent - Low Spender
+CUST00397,Loyal
+CUST00398,Infrequent - Low Spender
+CUST00399,At-Risk
+CUST00400,Champion
+CUST00401,Loyal
+CUST00402,At-Risk
+CUST00403,Loyal
+CUST00404,At-Risk
+CUST00405,Champion
+CUST00406,Infrequent - High Spender
+CUST00407,Champion
+CUST00408,Champion
+CUST00409,Infrequent - High Spender
+CUST00410,Champion
+CUST00411,At-Risk
+CUST00412,At-Risk
+CUST00413,Champion
+CUST00414,Champion
+CUST00415,At-Risk
+CUST00416,Champion
+CUST00417,At-Risk
+CUST00418,Loyal
+CUST00419,Discount-sensitive
+CUST00420,Champion
+CUST00421,Champion
+CUST00422,Recent Customer
+CUST00423,Recent Customer
+CUST00424,At-Risk
+CUST00425,Recent Customer
+CUST00426,Loyal
+CUST00427,Champion
+CUST00428,Loyal
+CUST00429,Champion
+CUST00430,Infrequent - Low Spender
+CUST00431,At-Risk
+CUST00432,Recent Customer
+CUST00433,Champion
+CUST00434,At-Risk
+CUST00435,At-Risk
+CUST00436,Infrequent - Low Spender
+CUST00437,At-Risk
+CUST00438,Infrequent - Low Spender
+CUST00439,Discount-sensitive
+CUST00440,Loyal
+CUST00441,At-Risk
+CUST00442,Infrequent - High Spender
+CUST00443,At-Risk
+CUST00444,At-Risk
+CUST00445,Champion
+CUST00446,Champion
+CUST00447,Infrequent - Low Spender
+CUST00448,Discount-sensitive
+CUST00449,At-Risk
+CUST00450,Champion
+CUST00451,Loyal
+CUST00452,At-Risk
+CUST00453,Infrequent - Low Spender
+CUST00454,Infrequent - High Spender
+CUST00455,At-Risk
+CUST00456,At-Risk
+CUST00457,At-Risk
+CUST00458,Champion
+CUST00459,At-Risk
+CUST00460,Infrequent - Low Spender
+CUST00461,At-Risk
+CUST00462,Champion
+CUST00463,Infrequent - Low Spender
+CUST00464,Infrequent - High Spender
+CUST00465,At-Risk
+CUST00466,Infrequent - Low Spender
+CUST00467,Champion
+CUST00468,At-Risk
+CUST00469,Infrequent - High Spender
+CUST00470,At-Risk
+CUST00471,Discount-sensitive
+CUST00472,At-Risk
+CUST00473,Discount-sensitive
+CUST00474,Infrequent - High Spender
+CUST00475,Champion
+CUST00476,Discount-sensitive
+CUST00477,Loyal
+CUST00478,Champion
+CUST00479,At-Risk
+CUST00480,At-Risk
+CUST00481,Champion
+CUST00482,Champion
+CUST00483,At-Risk
+CUST00484,Loyal
+CUST00485,At-Risk
+CUST00486,Champion
+CUST00487,Champion
+CUST00488,At-Risk
+CUST00489,At-Risk
+CUST00490,Champion
+CUST00491,Recent Customer
+CUST00492,Loyal
+CUST00493,Recent Customer
+CUST00494,Champion
+CUST00495,Loyal
+CUST00496,Champion
+CUST00497,At-Risk
+CUST00498,Champion
+CUST00499,Champion
+CUST00500,Loyal
+CUST00501,Infrequent - Low Spender
+CUST00502,Champion
+CUST00503,Infrequent - Low Spender
+CUST00504,Champion
+CUST00505,At-Risk
+CUST00506,Infrequent - Low Spender
+CUST00507,Discount-sensitive
+CUST00508,At-Risk
+CUST00509,Champion
+CUST00510,At-Risk
+CUST00511,Champion
+CUST00512,Infrequent - Low Spender
+CUST00513,Infrequent - Low Spender
+CUST00514,Recent Customer
+CUST00515,Champion
+CUST00516,Champion
+CUST00517,Loyal
+CUST00518,Champion
+CUST00519,Loyal
+CUST00520,Champion
+CUST00521,Infrequent - Low Spender
+CUST00522,At-Risk
+CUST00523,Champion
+CUST00524,Champion
+CUST00525,At-Risk
+CUST00526,Champion
+CUST00527,Discount-sensitive
+CUST00528,Champion
+CUST00529,Loyal
+CUST00530,Loyal
+CUST00531,Champion
+CUST00532,Discount-sensitive
+CUST00533,Champion
+CUST00534,Loyal
+CUST00535,Discount-sensitive
+CUST00536,Infrequent - Low Spender
+CUST00537,Champion
+CUST00538,Loyal
+CUST00539,Infrequent - Low Spender
+CUST00540,Loyal
+CUST00541,Dormant
+CUST00542,Loyal
+CUST00543,At-Risk
+CUST00544,Loyal
+CUST00545,Champion
+CUST00546,Loyal
+CUST00547,Champion
+CUST00548,At-Risk
+CUST00549,Discount-sensitive
+CUST00550,Champion
+CUST00551,Champion
+CUST00552,Champion
+CUST00553,At-Risk
+CUST00554,Champion
+CUST00555,Champion
+CUST00556,Champion
+CUST00557,Champion
+CUST00558,At-Risk
+CUST00559,Champion
+CUST00560,At-Risk
+CUST00561,Champion
+CUST00562,At-Risk
+CUST00563,Recent Customer
+CUST00564,At-Risk
+CUST00565,Champion
+CUST00566,Champion
+CUST00567,Champion
+CUST00568,Champion
+CUST00569,Discount-sensitive
+CUST00570,At-Risk
+CUST00571,Champion
+CUST00572,Infrequent - Low Spender
+CUST00573,Infrequent - High Spender
+CUST00574,Infrequent - Low Spender
+CUST00575,Loyal
+CUST00576,Champion
+CUST00577,Loyal
+CUST00578,At-Risk
+CUST00579,Champion
+CUST00580,Loyal
+CUST00581,Loyal
+CUST00582,At-Risk
+CUST00583,At-Risk
+CUST00584,Loyal
+CUST00585,At-Risk
+CUST00586,At-Risk
+CUST00587,Champion
+CUST00588,Loyal
+CUST00589,Loyal
+CUST00590,Discount-sensitive
+CUST00591,Loyal
+CUST00592,Champion
+CUST00593,Infrequent - Low Spender
+CUST00594,Discount-sensitive
+CUST00595,Infrequent - High Spender
+CUST00596,Loyal
+CUST00597,Loyal
+CUST00598,Champion
+CUST00599,At-Risk
+CUST00600,At-Risk
+CUST00601,Loyal
+CUST00602,Discount-sensitive
+CUST00603,Infrequent - Low Spender
+CUST00604,At-Risk
+CUST00605,At-Risk
+CUST00606,At-Risk
+CUST00607,At-Risk
+CUST00608,Champion
+CUST00609,Infrequent - Low Spender
+CUST00610,Infrequent - Low Spender
+CUST00611,At-Risk
+CUST00612,Loyal
+CUST00613,Infrequent - Low Spender
+CUST00614,At-Risk
+CUST00615,Champion
+CUST00616,Champion
+CUST00617,Infrequent - Low Spender
+CUST00618,Recent Customer
+CUST00619,Champion
+CUST00620,Recent Customer
+CUST00621,Recent Customer
+CUST00622,At-Risk
+CUST00623,Dormant
+CUST00624,At-Risk
+CUST00625,Infrequent - High Spender
+CUST00626,Champion
+CUST00627,Loyal
+CUST00628,Loyal
+CUST00629,Champion
+CUST00630,Recent Customer
+CUST00631,Infrequent - High Spender
+CUST00632,Loyal
+CUST00633,Champion
+CUST00634,At-Risk
+CUST00635,Discount-sensitive
+CUST00636,Loyal
+CUST00637,Loyal
+CUST00638,At-Risk
+CUST00639,At-Risk
+CUST00640,Recent Customer
+CUST00641,Infrequent - High Spender
+CUST00642,Infrequent - High Spender
+CUST00643,At-Risk
+CUST00644,Loyal
+CUST00645,At-Risk
+CUST00646,Recent Customer
+CUST00647,Loyal
+CUST00648,Champion
+CUST00649,Discount-sensitive
+CUST00650,Loyal
+CUST00651,Loyal
+CUST00652,Loyal
+CUST00653,Loyal
+CUST00654,Infrequent - Low Spender
+CUST00655,Loyal
+CUST00656,Loyal
+CUST00657,Loyal
+CUST00658,At-Risk
+CUST00659,Champion
+CUST00660,Champion
+CUST00661,At-Risk
+CUST00662,Recent Customer
+CUST00663,Infrequent - High Spender
+CUST00664,Champion
+CUST00665,Infrequent - Low Spender
+CUST00666,Champion
+CUST00667,Champion
+CUST00668,Champion
+CUST00669,Infrequent - Low Spender
+CUST00670,At-Risk
+CUST00671,Infrequent - Low Spender
+CUST00672,Discount-sensitive
+CUST00673,Discount-sensitive
+CUST00674,Infrequent - Low Spender
+CUST00675,At-Risk
+CUST00676,Champion
+CUST00677,Champion
+CUST00678,At-Risk
+CUST00679,Infrequent - Low Spender
+CUST00680,At-Risk
+CUST00681,At-Risk
+CUST00682,Champion
+CUST00683,Infrequent - Low Spender
+CUST00684,Discount-sensitive
+CUST00685,Champion
+CUST00686,Discount-sensitive
+CUST00687,Dormant
+CUST00688,Infrequent - Low Spender
+CUST00689,Infrequent - Low Spender
+CUST00690,Infrequent - Low Spender
+CUST00691,Loyal
+CUST00692,Loyal
+CUST00693,At-Risk
+CUST00694,Loyal
+CUST00695,At-Risk
+CUST00696,Champion
+CUST00697,At-Risk
+CUST00698,Infrequent - Low Spender
+CUST00699,Infrequent - Low Spender
+CUST00700,Loyal
+CUST00701,At-Risk
+CUST00702,Loyal
+CUST00703,Discount-sensitive
+CUST00704,Champion
+CUST00705,Champion
+CUST00706,Champion
+CUST00707,At-Risk
+CUST00708,Infrequent - Low Spender
+CUST00709,Recent Customer
+CUST00710,Infrequent - Low Spender
+CUST00711,Infrequent - Low Spender
+CUST00712,Champion
+CUST00713,Infrequent - Low Spender
+CUST00714,Infrequent - High Spender
+CUST00715,Infrequent - High Spender
+CUST00716,Infrequent - High Spender
+CUST00717,Champion
+CUST00718,At-Risk
+CUST00719,At-Risk
+CUST00720,At-Risk
+CUST00721,Champion
+CUST00722,Champion
+CUST00723,Loyal
+CUST00724,Champion
+CUST00725,Discount-sensitive
+CUST00726,Dormant
+CUST00727,Infrequent - Low Spender
+CUST00728,Loyal
+CUST00729,Discount-sensitive
+CUST00730,At-Risk
+CUST00731,Discount-sensitive
+CUST00732,Champion
+CUST00733,Loyal
+CUST00734,Discount-sensitive
+CUST00735,Champion
+CUST00736,Infrequent - High Spender
+CUST00737,Champion
+CUST00738,Loyal
+CUST00739,Champion
+CUST00740,At-Risk
+CUST00741,At-Risk
+CUST00742,Loyal
+CUST00743,Champion
+CUST00744,Loyal
+CUST00745,Champion
+CUST00746,At-Risk
+CUST00747,Champion
+CUST00748,Infrequent - Low Spender
+CUST00749,Champion
+CUST00750,Loyal
+CUST00751,Champion
+CUST00752,Recent Customer
+CUST00753,Recent Customer
+CUST00754,Loyal
+CUST00755,At-Risk
+CUST00756,Discount-sensitive
+CUST00757,Champion
+CUST00758,Infrequent - High Spender
+CUST00759,Champion
+CUST00760,At-Risk
+CUST00761,At-Risk
+CUST00762,Loyal
+CUST00763,At-Risk
+CUST00764,Champion
+CUST00765,Discount-sensitive
+CUST00766,At-Risk
+CUST00767,Loyal
+CUST00768,Champion
+CUST00769,Champion
+CUST00770,Infrequent - Low Spender
+CUST00771,Discount-sensitive
+CUST00772,At-Risk
+CUST00773,Loyal
+CUST00774,Recent Customer
+CUST00775,Champion
+CUST00776,At-Risk
+CUST00777,Champion
+CUST00778,At-Risk
+CUST00779,Champion
+CUST00780,Infrequent - Low Spender
+CUST00781,Loyal
+CUST00782,At-Risk
+CUST00783,At-Risk
+CUST00784,Champion
+CUST00785,Infrequent - High Spender
+CUST00786,At-Risk
+CUST00787,Infrequent - Low Spender
+CUST00788,Loyal
+CUST00789,Loyal
+CUST00790,Loyal
+CUST00791,At-Risk
+CUST00792,At-Risk
+CUST00793,Recent Customer
+CUST00794,At-Risk
+CUST00795,Recent Customer
+CUST00796,At-Risk
+CUST00797,Champion
+CUST00798,Loyal
+CUST00799,Loyal
+CUST00800,Infrequent - Low Spender
+CUST00801,Loyal
+CUST00802,At-Risk
+CUST00803,Loyal
+CUST00804,Champion
+CUST00805,Champion
+CUST00806,Champion
+CUST00807,Recent Customer
+CUST00808,Loyal
+CUST00809,Infrequent - High Spender
+CUST00810,At-Risk
+CUST00811,At-Risk
+CUST00812,At-Risk
+CUST00813,Infrequent - Low Spender
+CUST00814,Recent Customer
+CUST00815,At-Risk
+CUST00816,Loyal
+CUST00817,Infrequent - Low Spender
+CUST00818,At-Risk
+CUST00819,Infrequent - Low Spender
+CUST00820,At-Risk
+CUST00821,Discount-sensitive
+CUST00822,Infrequent - High Spender
+CUST00823,Discount-sensitive
+CUST00824,Champion
+CUST00825,Recent Customer
+CUST00826,At-Risk
+CUST00827,Loyal
+CUST00828,Discount-sensitive
+CUST00829,Infrequent - Low Spender
+CUST00830,Champion
+CUST00831,Champion
+CUST00832,Champion
+CUST00833,Loyal
+CUST00834,Champion
+CUST00835,Infrequent - High Spender
+CUST00836,Champion
+CUST00837,Infrequent - Low Spender
+CUST00838,Champion
+CUST00839,At-Risk
+CUST00840,Infrequent - Low Spender
+CUST00841,Dormant
+CUST00842,Loyal
+CUST00843,Champion
+CUST00844,Champion
+CUST00845,Discount-sensitive
+CUST00846,Infrequent - High Spender
+CUST00847,Champion
+CUST00848,Champion
+CUST00849,Infrequent - Low Spender
+CUST00850,Loyal
+CUST00851,Champion
+CUST00852,Loyal
+CUST00853,Loyal
+CUST00854,At-Risk
+CUST00855,At-Risk
+CUST00856,Recent Customer
+CUST00857,Loyal
+CUST00858,Recent Customer
+CUST00859,At-Risk
+CUST00860,Loyal
+CUST00861,At-Risk
+CUST00862,At-Risk
+CUST00863,Champion
+CUST00864,Discount-sensitive
+CUST00865,Loyal
+CUST00866,Champion
+CUST00867,Champion
+CUST00868,Champion
+CUST00869,Infrequent - High Spender
+CUST00870,Dormant
+CUST00871,Infrequent - High Spender
+CUST00872,At-Risk
+CUST00873,Loyal
+CUST00874,Champion
+CUST00875,Champion
+CUST00876,Champion
+CUST00877,Loyal
+CUST00878,Recent Customer
+CUST00879,At-Risk
+CUST00880,Infrequent - High Spender
+CUST00881,Champion
+CUST00882,Loyal
+CUST00883,Recent Customer
+CUST00884,At-Risk
+CUST00885,Champion
+CUST00886,Champion
+CUST00887,Champion
+CUST00888,Discount-sensitive
+CUST00889,Champion
+CUST00890,Champion
+CUST00891,Champion
+CUST00892,Champion
+CUST00893,Recent Customer
+CUST00894,Loyal
+CUST00895,Loyal
+CUST00896,Infrequent - Low Spender
+CUST00897,Champion
+CUST00898,At-Risk
+CUST00899,At-Risk
+CUST00900,Loyal
+CUST00901,Infrequent - High Spender
+CUST00902,Champion
+CUST00903,Champion
+CUST00904,Infrequent - Low Spender
+CUST00905,Loyal
+CUST00906,Champion
+CUST00907,At-Risk
+CUST00908,Loyal
+CUST00909,At-Risk
+CUST00910,Discount-sensitive
+CUST00911,Infrequent - Low Spender
+CUST00912,Discount-sensitive
+CUST00913,At-Risk
+CUST00914,Champion
+CUST00915,Discount-sensitive
+CUST00916,Champion
+CUST00917,At-Risk
+CUST00918,At-Risk
+CUST00919,Loyal
+CUST00920,Loyal
+CUST00921,At-Risk
+CUST00922,Champion
+CUST00923,Loyal
+CUST00924,Champion
+CUST00925,Champion
+CUST00926,Infrequent - High Spender
+CUST00927,At-Risk
+CUST00928,At-Risk
+CUST00929,Champion
+CUST00930,Infrequent - Low Spender
+CUST00931,Champion
+CUST00932,Loyal
+CUST00933,At-Risk
+CUST00934,Champion
+CUST00935,Infrequent - Low Spender
+CUST00936,Champion
+CUST00937,At-Risk
+CUST00938,Champion
+CUST00939,Champion
+CUST00940,At-Risk
+CUST00941,At-Risk
+CUST00942,Champion
+CUST00943,At-Risk
+CUST00944,Loyal
+CUST00945,Champion
+CUST00946,At-Risk
+CUST00947,Infrequent - High Spender
+CUST00948,Loyal
+CUST00949,Recent Customer
+CUST00950,At-Risk
+CUST00951,Loyal
+CUST00952,Infrequent - Low Spender
+CUST00953,Infrequent - Low Spender
+CUST00954,Champion
+CUST00955,Loyal
+CUST00956,Loyal
+CUST00957,Champion
+CUST00958,At-Risk
+CUST00959,Loyal
+CUST00960,Recent Customer
+CUST00961,At-Risk
+CUST00962,Champion
+CUST00963,Discount-sensitive
+CUST00964,At-Risk
+CUST00965,Champion
+CUST00966,Loyal
+CUST00967,At-Risk
+CUST00968,Discount-sensitive
+CUST00969,Champion
+CUST00970,At-Risk
+CUST00971,Infrequent - Low Spender
+CUST00972,Loyal
+CUST00973,Champion
+CUST00974,Infrequent - Low Spender
+CUST00975,Loyal
+CUST00976,Champion
+CUST00977,Champion
+CUST00978,At-Risk
+CUST00979,At-Risk
+CUST00980,Loyal
+CUST00981,At-Risk
+CUST00982,Infrequent - High Spender
+CUST00983,At-Risk
+CUST00984,Champion
+CUST00985,Loyal
+CUST00986,Loyal
+CUST00987,Champion
+CUST00988,Infrequent - Low Spender
+CUST00989,At-Risk
+CUST00990,Dormant
+CUST00991,Infrequent - Low Spender
+CUST00992,At-Risk
+CUST00993,At-Risk
+CUST00994,Loyal
+CUST00995,At-Risk
+CUST00996,Infrequent - Low Spender
+CUST00997,At-Risk
+CUST00998,Infrequent - Low Spender
+CUST00999,At-Risk
+CUST01000,Loyal
+CUST01001,At-Risk
+CUST01002,Loyal
+CUST01003,Discount-sensitive
+CUST01004,At-Risk
+CUST01005,Recent Customer
+CUST01006,Champion
+CUST01007,Recent Customer
+CUST01008,At-Risk
+CUST01009,Champion
+CUST01010,Champion
+CUST01011,At-Risk
+CUST01012,Champion
+CUST01013,At-Risk
+CUST01014,At-Risk
+CUST01015,Champion
+CUST01016,Champion
+CUST01017,At-Risk
+CUST01018,Champion
+CUST01019,At-Risk
+CUST01020,Discount-sensitive
+CUST01021,Champion
+CUST01022,At-Risk
+CUST01023,At-Risk
+CUST01024,Champion
+CUST01025,Loyal
+CUST01026,Loyal
+CUST01027,Infrequent - Low Spender
+CUST01028,At-Risk
+CUST01029,Discount-sensitive
+CUST01030,Infrequent - Low Spender
+CUST01031,At-Risk
+CUST01032,Champion
+CUST01033,Infrequent - Low Spender
+CUST01034,At-Risk
+CUST01035,Infrequent - High Spender
+CUST01036,Dormant
+CUST01037,Champion
+CUST01038,Infrequent - High Spender
+CUST01039,Recent Customer
+CUST01040,Discount-sensitive
+CUST01041,At-Risk
+CUST01042,Champion
+CUST01043,Loyal
+CUST01044,Loyal
+CUST01045,Recent Customer
+CUST01046,Recent Customer
+CUST01047,At-Risk
+CUST01048,Recent Customer
+CUST01049,Recent Customer
+CUST01050,Champion
+CUST01051,Discount-sensitive
+CUST01052,At-Risk
+CUST01053,At-Risk
+CUST01054,At-Risk
+CUST01055,At-Risk
+CUST01056,Infrequent - Low Spender
+CUST01057,Champion
+CUST01058,Discount-sensitive
+CUST01059,Discount-sensitive
+CUST01060,Loyal
+CUST01061,Champion
+CUST01062,At-Risk
+CUST01063,Champion
+CUST01064,Champion
+CUST01065,Champion
+CUST01066,Champion
+CUST01067,Champion
+CUST01068,Recent Customer
+CUST01069,Loyal
+CUST01070,Champion
+CUST01071,Champion
+CUST01072,At-Risk
+CUST01073,Loyal
+CUST01074,At-Risk
+CUST01075,Champion
+CUST01076,Loyal
+CUST01077,Loyal
+CUST01078,At-Risk
+CUST01079,At-Risk
+CUST01080,Discount-sensitive
+CUST01081,Champion
+CUST01082,Champion
+CUST01083,At-Risk
+CUST01084,Infrequent - High Spender
+CUST01085,At-Risk
+CUST01086,Loyal
+CUST01087,Champion
+CUST01088,Champion
+CUST01089,Champion
+CUST01090,Recent Customer
+CUST01091,Recent Customer
+CUST01092,At-Risk
+CUST01093,At-Risk
+CUST01094,Infrequent - High Spender
+CUST01095,Champion
+CUST01096,Infrequent - Low Spender
+CUST01097,At-Risk
+CUST01098,At-Risk
+CUST01099,Infrequent - Low Spender
+CUST01100,Champion
+CUST01101,Champion
+CUST01102,Loyal
+CUST01103,Loyal
+CUST01104,At-Risk
+CUST01105,Infrequent - High Spender
+CUST01106,Loyal
+CUST01107,Discount-sensitive
+CUST01108,Champion
+CUST01109,Champion
+CUST01110,At-Risk
+CUST01111,At-Risk
+CUST01112,Loyal
+CUST01113,Discount-sensitive
+CUST01114,Discount-sensitive
+CUST01115,Infrequent - Low Spender
+CUST01116,Loyal
+CUST01117,Infrequent - Low Spender
+CUST01118,At-Risk
+CUST01119,Discount-sensitive
+CUST01120,Loyal
+CUST01121,Discount-sensitive
+CUST01122,Champion
+CUST01123,At-Risk
+CUST01124,Infrequent - High Spender
+CUST01125,At-Risk
+CUST01126,Loyal
+CUST01127,Discount-sensitive
+CUST01128,At-Risk
+CUST01129,At-Risk
+CUST01130,Discount-sensitive
+CUST01131,Champion
+CUST01132,Loyal
+CUST01133,Champion
+CUST01134,Loyal
+CUST01135,Recent Customer
+CUST01136,Dormant
+CUST01137,Discount-sensitive
+CUST01138,Recent Customer
+CUST01139,Loyal
+CUST01140,Infrequent - Low Spender
+CUST01141,Recent Customer
+CUST01142,Champion
+CUST01143,Champion
+CUST01144,Infrequent - Low Spender
+CUST01145,At-Risk
+CUST01146,Champion
+CUST01147,Infrequent - High Spender
+CUST01148,Dormant
+CUST01149,Loyal
+CUST01150,At-Risk
+CUST01151,Recent Customer
+CUST01152,Infrequent - Low Spender
+CUST01153,Champion
+CUST01154,Loyal
+CUST01155,Champion
+CUST01156,Champion
+CUST01157,Champion
+CUST01158,Infrequent - Low Spender
+CUST01159,Loyal
+CUST01160,At-Risk
+CUST01161,At-Risk
+CUST01162,At-Risk
+CUST01163,At-Risk
+CUST01164,Champion
+CUST01165,At-Risk
+CUST01166,Champion
+CUST01167,Infrequent - Low Spender
+CUST01168,Champion
+CUST01169,Loyal
+CUST01170,Discount-sensitive
+CUST01171,Discount-sensitive
+CUST01172,Infrequent - Low Spender
+CUST01173,Loyal
+CUST01174,Discount-sensitive
+CUST01175,Infrequent - Low Spender
+CUST01176,At-Risk
+CUST01177,Infrequent - Low Spender
+CUST01178,Infrequent - High Spender
+CUST01179,Recent Customer
+CUST01180,Loyal
+CUST01181,Discount-sensitive
+CUST01182,Discount-sensitive
+CUST01183,Champion
+CUST01184,Infrequent - High Spender
+CUST01185,Champion
+CUST01186,At-Risk
+CUST01187,Infrequent - High Spender
+CUST01188,Discount-sensitive
+CUST01189,At-Risk
+CUST01190,Infrequent - High Spender
+CUST01191,Loyal
+CUST01192,Infrequent - High Spender
+CUST01193,At-Risk
+CUST01194,Loyal
+CUST01195,Recent Customer
+CUST01196,At-Risk
+CUST01197,Loyal
+CUST01198,Champion
+CUST01199,At-Risk
+CUST01200,Loyal
+CUST01201,At-Risk
+CUST01202,Discount-sensitive
+CUST01203,Loyal
+CUST01204,Loyal
+CUST01205,At-Risk
+CUST01206,Loyal
+CUST01207,Discount-sensitive
+CUST01208,Discount-sensitive
+CUST01209,Champion
+CUST01210,At-Risk
+CUST01211,Infrequent - Low Spender
+CUST01212,Loyal
+CUST01213,At-Risk
+CUST01214,At-Risk
+CUST01215,Loyal
+CUST01216,Discount-sensitive
+CUST01217,At-Risk
+CUST01218,Champion
+CUST01219,Discount-sensitive
+CUST01220,Recent Customer
+CUST01221,Champion
+CUST01222,Champion
+CUST01223,Infrequent - High Spender
+CUST01224,Champion
+CUST01225,Recent Customer
+CUST01226,Infrequent - High Spender
+CUST01227,Infrequent - High Spender
+CUST01228,At-Risk
+CUST01229,At-Risk
+CUST01230,Recent Customer
+CUST01231,At-Risk
+CUST01232,At-Risk
+CUST01233,Loyal
+CUST01234,Recent Customer
+CUST01235,At-Risk
+CUST01236,Infrequent - High Spender
+CUST01237,Discount-sensitive
+CUST01238,Infrequent - Low Spender
+CUST01239,At-Risk
+CUST01240,Champion
+CUST01241,Champion
+CUST01242,Infrequent - Low Spender
+CUST01243,Infrequent - High Spender
+CUST01244,Loyal
+CUST01245,At-Risk
+CUST01246,At-Risk
+CUST01247,Champion
+CUST01248,Discount-sensitive
+CUST01249,Infrequent - Low Spender
+CUST01250,At-Risk
+CUST01251,Loyal
+CUST01252,Loyal
+CUST01253,Recent Customer
+CUST01254,Loyal
+CUST01255,Loyal
+CUST01256,At-Risk
+CUST01257,Champion
+CUST01258,At-Risk
+CUST01259,Discount-sensitive
+CUST01260,Champion
+CUST01261,Champion
+CUST01262,Champion
+CUST01263,Infrequent - Low Spender
+CUST01264,Loyal
+CUST01265,Champion
+CUST01266,Infrequent - Low Spender
+CUST01267,Loyal
+CUST01268,Champion
+CUST01269,Loyal
+CUST01270,Loyal
+CUST01271,Champion
+CUST01272,Champion
+CUST01273,At-Risk
+CUST01274,Champion
+CUST01275,Infrequent - Low Spender
+CUST01276,Discount-sensitive
+CUST01277,Discount-sensitive
+CUST01278,Loyal
+CUST01279,Discount-sensitive
+CUST01280,Infrequent - Low Spender
+CUST01281,At-Risk
+CUST01282,Loyal
+CUST01283,Infrequent - Low Spender
+CUST01284,At-Risk
+CUST01285,Discount-sensitive
+CUST01286,At-Risk
+CUST01287,Discount-sensitive
+CUST01288,Discount-sensitive
+CUST01289,Champion
+CUST01290,Loyal
+CUST01291,At-Risk
+CUST01292,Loyal
+CUST01293,Champion
+CUST01294,Champion
+CUST01295,Dormant
+CUST01296,Champion
+CUST01297,Infrequent - High Spender
+CUST01298,At-Risk
+CUST01299,At-Risk
+CUST01300,Infrequent - Low Spender
+CUST01301,Loyal
+CUST01302,Infrequent - Low Spender
+CUST01303,Champion
+CUST01304,Champion
+CUST01305,Loyal
+CUST01306,Loyal
+CUST01307,At-Risk
+CUST01308,At-Risk
+CUST01309,Infrequent - High Spender
+CUST01310,Discount-sensitive
+CUST01311,Champion
+CUST01312,Champion
+CUST01313,Champion
+CUST01314,Champion
+CUST01315,At-Risk
+CUST01316,Recent Customer
+CUST01317,At-Risk
+CUST01318,Recent Customer
+CUST01319,Discount-sensitive
+CUST01320,At-Risk
+CUST01321,Infrequent - High Spender
+CUST01322,At-Risk
+CUST01323,At-Risk
+CUST01324,At-Risk
+CUST01325,At-Risk
+CUST01326,Recent Customer
+CUST01327,Infrequent - Low Spender
+CUST01328,Loyal
+CUST01329,Infrequent - High Spender
+CUST01330,Infrequent - Low Spender
+CUST01331,Infrequent - High Spender
+CUST01332,Infrequent - Low Spender
+CUST01333,Loyal
+CUST01334,At-Risk
+CUST01335,Loyal
+CUST01336,Champion
+CUST01337,Loyal
+CUST01338,Champion
+CUST01339,At-Risk
+CUST01340,Loyal
+CUST01341,Champion
+CUST01342,Loyal
+CUST01343,Infrequent - High Spender
+CUST01344,At-Risk
+CUST01345,Loyal
+CUST01346,Infrequent - Low Spender
+CUST01347,Discount-sensitive
+CUST01348,At-Risk
+CUST01349,Loyal
+CUST01350,At-Risk
+CUST01351,Champion
+CUST01352,Discount-sensitive
+CUST01353,Loyal
+CUST01354,Champion
+CUST01355,Discount-sensitive
+CUST01356,Champion
+CUST01357,Discount-sensitive
+CUST01358,Champion
+CUST01359,Discount-sensitive
+CUST01360,At-Risk
+CUST01361,Champion
+CUST01362,Loyal
+CUST01363,Loyal
+CUST01364,At-Risk
+CUST01365,At-Risk
+CUST01366,Discount-sensitive
+CUST01367,Loyal
+CUST01368,At-Risk
+CUST01369,Champion
+CUST01370,At-Risk
+CUST01371,Loyal
+CUST01372,Loyal
+CUST01373,Champion
+CUST01374,Recent Customer
+CUST01375,Loyal
+CUST01376,Champion
+CUST01377,Champion
+CUST01378,Recent Customer
+CUST01379,At-Risk
+CUST01380,Champion
+CUST01381,Infrequent - Low Spender
+CUST01382,Champion
+CUST01383,Infrequent - High Spender
+CUST01384,At-Risk
+CUST01385,Infrequent - High Spender
+CUST01386,Infrequent - Low Spender
+CUST01387,At-Risk
+CUST01388,Loyal
+CUST01389,Loyal
+CUST01390,Champion
+CUST01391,At-Risk
+CUST01392,Champion
+CUST01393,Loyal
+CUST01394,Champion
+CUST01395,Infrequent - Low Spender
+CUST01396,Discount-sensitive
+CUST01397,Infrequent - Low Spender
+CUST01398,Loyal
+CUST01399,Infrequent - Low Spender
+CUST01400,At-Risk
+CUST01401,Loyal
+CUST01402,At-Risk
+CUST01403,At-Risk
+CUST01404,At-Risk
+CUST01405,Discount-sensitive
+CUST01406,At-Risk
+CUST01407,Recent Customer
+CUST01408,At-Risk
+CUST01409,Infrequent - High Spender
+CUST01410,Discount-sensitive
+CUST01411,At-Risk
+CUST01412,Discount-sensitive
+CUST01413,At-Risk
+CUST01414,Champion
+CUST01415,Champion
+CUST01416,Infrequent - Low Spender
+CUST01417,At-Risk
+CUST01418,At-Risk
+CUST01419,Champion
+CUST01420,Infrequent - Low Spender
+CUST01421,Champion
+CUST01422,Infrequent - High Spender
+CUST01423,Champion
+CUST01424,Discount-sensitive
+CUST01425,Loyal
+CUST01426,Champion
+CUST01427,Infrequent - Low Spender
+CUST01428,Loyal
+CUST01429,Loyal
+CUST01430,Infrequent - Low Spender
+CUST01431,Champion
+CUST01432,Recent Customer
+CUST01433,Discount-sensitive
+CUST01434,Infrequent - High Spender
+CUST01435,At-Risk
+CUST01436,Loyal
+CUST01437,At-Risk
+CUST01438,At-Risk
+CUST01439,Infrequent - Low Spender
+CUST01440,Infrequent - Low Spender
+CUST01441,At-Risk
+CUST01442,Dormant
+CUST01443,Infrequent - Low Spender
+CUST01444,Champion
+CUST01445,Discount-sensitive
+CUST01446,Recent Customer
+CUST01447,Champion
+CUST01448,At-Risk
+CUST01449,Champion
+CUST01450,At-Risk
+CUST01451,Champion
+CUST01452,Discount-sensitive
+CUST01453,Loyal
+CUST01454,Infrequent - Low Spender
+CUST01455,At-Risk
+CUST01456,Champion
+CUST01457,At-Risk
+CUST01458,Loyal
+CUST01459,Infrequent - High Spender
+CUST01460,Infrequent - High Spender
+CUST01461,At-Risk
+CUST01462,Loyal
+CUST01463,At-Risk
+CUST01464,Champion
+CUST01465,Champion
+CUST01466,Loyal
+CUST01467,Recent Customer
+CUST01468,At-Risk
+CUST01469,Champion
+CUST01470,At-Risk
+CUST01471,Infrequent - Low Spender
+CUST01472,Infrequent - Low Spender
+CUST01473,Infrequent - Low Spender
+CUST01474,Loyal
+CUST01475,Recent Customer
+CUST01476,Recent Customer
+CUST01477,Infrequent - High Spender
+CUST01478,Infrequent - Low Spender
+CUST01479,Infrequent - High Spender
+CUST01480,At-Risk
+CUST01481,Discount-sensitive
+CUST01482,At-Risk
+CUST01483,Champion
+CUST01484,Recent Customer
+CUST01485,Infrequent - Low Spender
+CUST01486,Loyal
+CUST01487,At-Risk
+CUST01488,Infrequent - High Spender
+CUST01489,Infrequent - Low Spender
+CUST01490,At-Risk
+CUST01491,Recent Customer
+CUST01492,Loyal
+CUST01493,Champion
+CUST01494,At-Risk
+CUST01495,Dormant
+CUST01496,Champion
+CUST01497,Infrequent - Low Spender
+CUST01498,Infrequent - Low Spender
+CUST01499,At-Risk
+CUST01500,Discount-sensitive
+CUST01501,Loyal
+CUST01502,Loyal
+CUST01503,Discount-sensitive
+CUST01504,At-Risk
+CUST01505,Loyal
+CUST01506,Discount-sensitive
+CUST01507,Recent Customer
+CUST01508,Champion
+CUST01509,Infrequent - High Spender
+CUST01510,Discount-sensitive
+CUST01511,Dormant
+CUST01512,Champion
+CUST01513,Discount-sensitive
+CUST01514,Infrequent - High Spender
+CUST01515,Dormant
+CUST01516,At-Risk
+CUST01517,At-Risk
+CUST01518,At-Risk
+CUST01519,Dormant
+CUST01520,Champion
+CUST01521,Champion
+CUST01522,Loyal
+CUST01523,Infrequent - Low Spender
+CUST01524,Loyal
+CUST01525,Loyal
+CUST01526,Loyal
+CUST01527,At-Risk
+CUST01528,Discount-sensitive
+CUST01529,At-Risk
+CUST01530,At-Risk
+CUST01531,At-Risk
+CUST01532,At-Risk
+CUST01533,At-Risk
+CUST01534,Champion
+CUST01535,Infrequent - Low Spender
+CUST01536,Champion
+CUST01537,Discount-sensitive
+CUST01538,Loyal
+CUST01539,At-Risk
+CUST01540,At-Risk
+CUST01541,Loyal
+CUST01542,Champion
+CUST01543,Discount-sensitive
+CUST01544,Discount-sensitive
+CUST01545,Recent Customer
+CUST01546,Champion
+CUST01547,At-Risk
+CUST01548,Loyal
+CUST01549,At-Risk
+CUST01550,Infrequent - High Spender
+CUST01551,Loyal
+CUST01552,Discount-sensitive
+CUST01553,At-Risk
+CUST01554,Loyal
+CUST01555,Champion
+CUST01556,Champion
+CUST01557,Champion
+CUST01558,At-Risk
+CUST01559,Infrequent - High Spender
+CUST01560,Champion
+CUST01561,At-Risk
+CUST01562,Loyal
+CUST01563,Champion
+CUST01564,At-Risk
+CUST01565,Champion
+CUST01566,Champion
+CUST01567,At-Risk
+CUST01568,At-Risk
+CUST01569,Loyal
+CUST01570,Discount-sensitive
+CUST01571,At-Risk
+CUST01572,At-Risk
+CUST01573,Infrequent - Low Spender
+CUST01574,At-Risk
+CUST01575,At-Risk
+CUST01576,Loyal
+CUST01577,Discount-sensitive
+CUST01578,Champion
+CUST01579,Infrequent - Low Spender
+CUST01580,Champion
+CUST01581,Infrequent - Low Spender
+CUST01582,Loyal
+CUST01583,At-Risk
+CUST01584,Champion
+CUST01585,Champion
+CUST01586,Champion
+CUST01587,Discount-sensitive
+CUST01588,Dormant
+CUST01589,At-Risk
+CUST01590,Recent Customer
+CUST01591,Discount-sensitive
+CUST01592,Recent Customer
+CUST01593,Champion
+CUST01594,Champion
+CUST01595,Loyal
+CUST01596,Infrequent - High Spender
+CUST01597,Champion
+CUST01598,Loyal
+CUST01599,Loyal
+CUST01600,Champion
+CUST01601,Loyal
+CUST01602,Infrequent - High Spender
+CUST01603,At-Risk
+CUST01604,Infrequent - High Spender
+CUST01605,Champion
+CUST01606,At-Risk
+CUST01607,At-Risk
+CUST01608,Champion
+CUST01609,Loyal
+CUST01610,Infrequent - Low Spender
+CUST01611,Infrequent - Low Spender
+CUST01612,At-Risk
+CUST01613,At-Risk
+CUST01614,Discount-sensitive
+CUST01615,Infrequent - High Spender
+CUST01616,At-Risk
+CUST01617,Loyal
+CUST01618,Loyal
+CUST01619,Infrequent - High Spender
+CUST01620,Infrequent - Low Spender
+CUST01621,Infrequent - Low Spender
+CUST01622,Champion
+CUST01623,At-Risk
+CUST01624,Infrequent - Low Spender
+CUST01625,Champion
+CUST01626,Infrequent - Low Spender
+CUST01627,At-Risk
+CUST01628,At-Risk
+CUST01629,Loyal
+CUST01630,Infrequent - Low Spender
+CUST01631,Infrequent - Low Spender
+CUST01632,Champion
+CUST01633,Loyal
+CUST01634,Champion
+CUST01635,Champion
+CUST01636,Champion
+CUST01637,Infrequent - Low Spender
+CUST01638,Champion
+CUST01639,At-Risk
+CUST01640,Discount-sensitive
+CUST01641,At-Risk
+CUST01642,Infrequent - Low Spender
+CUST01643,At-Risk
+CUST01644,At-Risk
+CUST01645,Infrequent - Low Spender
+CUST01646,Infrequent - Low Spender
+CUST01647,Infrequent - Low Spender
+CUST01648,At-Risk
+CUST01649,At-Risk
+CUST01650,Discount-sensitive
+CUST01651,At-Risk
+CUST01652,Infrequent - Low Spender
+CUST01653,Recent Customer
+CUST01654,Recent Customer
+CUST01655,Champion
+CUST01656,Infrequent - Low Spender
+CUST01657,At-Risk
+CUST01658,Infrequent - Low Spender
+CUST01659,Recent Customer
+CUST01660,Loyal
+CUST01661,At-Risk
+CUST01662,Champion
+CUST01663,Infrequent - Low Spender
+CUST01664,Loyal
+CUST01665,Loyal
+CUST01666,At-Risk
+CUST01667,Discount-sensitive
+CUST01668,Dormant
+CUST01669,Recent Customer
+CUST01670,Loyal
+CUST01671,Infrequent - Low Spender
+CUST01672,Champion
+CUST01673,Champion
+CUST01674,Recent Customer
+CUST01675,Recent Customer
+CUST01676,At-Risk
+CUST01677,Infrequent - High Spender
+CUST01678,Loyal
+CUST01679,Champion
+CUST01680,Loyal
+CUST01681,Loyal
+CUST01682,At-Risk
+CUST01683,Infrequent - Low Spender
+CUST01684,Infrequent - Low Spender
+CUST01685,At-Risk
+CUST01686,Recent Customer
+CUST01687,Loyal
+CUST01688,Discount-sensitive
+CUST01689,Loyal
+CUST01690,Loyal
+CUST01691,Discount-sensitive
+CUST01692,At-Risk
+CUST01693,Champion
+CUST01694,Champion
+CUST01695,Infrequent - High Spender
+CUST01696,Recent Customer
+CUST01697,Loyal
+CUST01698,Infrequent - Low Spender
+CUST01699,At-Risk
+CUST01700,Loyal
+CUST01701,Champion
+CUST01702,At-Risk
+CUST01703,Loyal
+CUST01704,Loyal
+CUST01705,Infrequent - High Spender
+CUST01706,Infrequent - High Spender
+CUST01707,Champion
+CUST01708,Infrequent - High Spender
+CUST01709,At-Risk
+CUST01710,Infrequent - High Spender
+CUST01711,At-Risk
+CUST01712,Champion
+CUST01713,Infrequent - Low Spender
+CUST01714,At-Risk
+CUST01715,Discount-sensitive
+CUST01716,Champion
+CUST01717,Discount-sensitive
+CUST01718,Infrequent - High Spender
+CUST01719,At-Risk
+CUST01720,Infrequent - High Spender
+CUST01721,Champion
+CUST01722,Loyal
+CUST01723,Infrequent - Low Spender
+CUST01724,Champion
+CUST01725,Champion
+CUST01726,Champion
+CUST01727,Champion
+CUST01728,Champion
+CUST01729,Loyal
+CUST01730,Discount-sensitive
+CUST01731,Discount-sensitive
+CUST01732,Infrequent - Low Spender
+CUST01733,Dormant
+CUST01734,At-Risk
+CUST01735,Loyal
+CUST01736,Infrequent - Low Spender
+CUST01737,Champion
+CUST01738,Infrequent - Low Spender
+CUST01739,Loyal
+CUST01740,Champion
+CUST01741,Infrequent - High Spender
+CUST01742,At-Risk
+CUST01743,Recent Customer
+CUST01744,Discount-sensitive
+CUST01745,At-Risk
+CUST01746,At-Risk
+CUST01747,Champion
+CUST01748,Champion
+CUST01749,At-Risk
+CUST01750,Discount-sensitive
+CUST01751,Loyal
+CUST01752,At-Risk
+CUST01753,Champion
+CUST01754,Champion
+CUST01755,At-Risk
+CUST01756,At-Risk
+CUST01757,At-Risk
+CUST01758,Loyal
+CUST01759,Discount-sensitive
+CUST01760,Infrequent - Low Spender
+CUST01761,Dormant
+CUST01762,Loyal
+CUST01763,Champion
+CUST01764,Infrequent - High Spender
+CUST01765,At-Risk
+CUST01766,At-Risk
+CUST01767,Discount-sensitive
+CUST01768,At-Risk
+CUST01769,Loyal
+CUST01770,Infrequent - High Spender
+CUST01771,Loyal
+CUST01772,At-Risk
+CUST01773,At-Risk
+CUST01774,Dormant
+CUST01775,Loyal
+CUST01776,Loyal
+CUST01777,At-Risk
+CUST01778,Recent Customer
+CUST01779,At-Risk
+CUST01780,Loyal
+CUST01781,At-Risk
+CUST01782,Discount-sensitive
+CUST01783,Champion
+CUST01784,Loyal
+CUST01785,Champion
+CUST01786,Infrequent - Low Spender
+CUST01787,Loyal
+CUST01788,Infrequent - Low Spender
+CUST01789,Loyal
+CUST01790,Infrequent - High Spender
+CUST01791,Loyal
+CUST01792,Champion
+CUST01793,Loyal
+CUST01794,Champion
+CUST01795,Recent Customer
+CUST01796,Champion
+CUST01797,Recent Customer
+CUST01798,At-Risk
+CUST01799,Loyal
+CUST01800,Recent Customer
+CUST01801,Champion
+CUST01802,Recent Customer
+CUST01803,Discount-sensitive
+CUST01804,At-Risk
+CUST01805,Champion
+CUST01806,Loyal
+CUST01807,Loyal
+CUST01808,Champion
+CUST01809,Loyal
+CUST01810,Champion
+CUST01811,Infrequent - Low Spender
+CUST01812,Infrequent - Low Spender
+CUST01813,Infrequent - Low Spender
+CUST01814,Champion
+CUST01815,Champion
+CUST01816,At-Risk
+CUST01817,At-Risk
+CUST01818,At-Risk
+CUST01819,Loyal
+CUST01820,Infrequent - Low Spender
+CUST01821,Infrequent - Low Spender
+CUST01822,Loyal
+CUST01823,Champion
+CUST01824,At-Risk
+CUST01825,Champion
+CUST01826,Infrequent - Low Spender
+CUST01827,Champion
+CUST01828,Infrequent - High Spender
+CUST01829,Dormant
+CUST01830,Champion
+CUST01831,Champion
+CUST01832,Dormant
+CUST01833,Infrequent - Low Spender
+CUST01834,Champion
+CUST01835,Recent Customer
+CUST01836,Discount-sensitive
+CUST01837,Loyal
+CUST01838,Loyal
+CUST01839,Infrequent - High Spender
+CUST01840,Discount-sensitive
+CUST01841,Infrequent - Low Spender
+CUST01842,At-Risk
+CUST01843,Loyal
+CUST01844,At-Risk
+CUST01845,At-Risk
+CUST01846,Loyal
+CUST01847,Champion
+CUST01848,Loyal
+CUST01849,Champion
+CUST01850,Champion
+CUST01851,At-Risk
+CUST01852,Loyal
+CUST01853,At-Risk
+CUST01854,At-Risk
+CUST01855,Loyal
+CUST01856,At-Risk
+CUST01857,Loyal
+CUST01858,Champion
+CUST01859,Champion
+CUST01860,Champion
+CUST01861,Loyal
+CUST01862,Infrequent - Low Spender
+CUST01863,At-Risk
+CUST01864,At-Risk
+CUST01865,Loyal
+CUST01866,Loyal
+CUST01867,Champion
+CUST01868,Loyal
+CUST01869,Infrequent - High Spender
+CUST01870,Discount-sensitive
+CUST01871,Recent Customer
+CUST01872,Champion
+CUST01873,Champion
+CUST01874,Champion
+CUST01875,Loyal
+CUST01876,At-Risk
+CUST01877,Loyal
+CUST01878,Champion
+CUST01879,Champion
+CUST01880,At-Risk
+CUST01881,Champion
+CUST01882,At-Risk
+CUST01883,Champion
+CUST01884,At-Risk
+CUST01885,Infrequent - Low Spender
+CUST01886,Loyal
+CUST01887,Discount-sensitive
+CUST01888,Infrequent - High Spender
+CUST01889,Loyal
+CUST01890,At-Risk
+CUST01891,At-Risk
+CUST01892,Champion
+CUST01893,Loyal
+CUST01894,At-Risk
+CUST01895,At-Risk
+CUST01896,Loyal
+CUST01897,Champion
+CUST01898,At-Risk
+CUST01899,Loyal
+CUST01900,Infrequent - Low Spender
+CUST01901,At-Risk
+CUST01902,Loyal
+CUST01903,Champion
+CUST01904,Infrequent - Low Spender
+CUST01905,Infrequent - Low Spender
+CUST01906,Loyal
+CUST01907,Champion
+CUST01908,At-Risk
+CUST01909,Champion
+CUST01910,At-Risk
+CUST01911,Infrequent - Low Spender
+CUST01912,Champion
+CUST01913,Loyal
+CUST01914,Loyal
+CUST01915,At-Risk
+CUST01916,Champion
+CUST01917,At-Risk
+CUST01918,At-Risk
+CUST01919,Champion
+CUST01920,At-Risk
+CUST01921,Loyal
+CUST01922,Champion
+CUST01923,At-Risk
+CUST01924,Loyal
+CUST01925,Champion
+CUST01926,Discount-sensitive
+CUST01927,At-Risk
+CUST01928,Champion
+CUST01929,At-Risk
+CUST01930,Champion
+CUST01931,Champion
+CUST01932,Champion
+CUST01933,Champion
+CUST01934,Champion
+CUST01935,Loyal
+CUST01936,Champion
+CUST01937,Recent Customer
+CUST01938,Infrequent - High Spender
+CUST01939,Infrequent - Low Spender
+CUST01940,Champion
+CUST01941,Infrequent - Low Spender
+CUST01942,At-Risk
+CUST01943,Infrequent - Low Spender
+CUST01944,Champion
+CUST01945,Recent Customer
+CUST01946,Recent Customer
+CUST01947,At-Risk
+CUST01948,At-Risk
+CUST01949,At-Risk
+CUST01950,Discount-sensitive
+CUST01951,Discount-sensitive
+CUST01952,At-Risk
+CUST01953,At-Risk
+CUST01954,Loyal
+CUST01955,Infrequent - High Spender
+CUST01956,Loyal
+CUST01957,At-Risk
+CUST01958,Discount-sensitive
+CUST01959,Champion
+CUST01960,Champion
+CUST01961,Loyal
+CUST01962,At-Risk
+CUST01963,Recent Customer
+CUST01964,Champion
+CUST01965,At-Risk
+CUST01966,Loyal
+CUST01967,Champion
+CUST01968,Loyal
+CUST01969,Loyal
+CUST01970,Loyal
+CUST01971,Loyal
+CUST01972,Infrequent - Low Spender
+CUST01973,At-Risk
+CUST01974,Loyal
+CUST01975,Loyal
+CUST01976,Dormant
+CUST01977,Loyal
+CUST01978,At-Risk
+CUST01979,Loyal
+CUST01980,Champion
+CUST01981,Loyal
+CUST01982,Champion
+CUST01983,Loyal
+CUST01984,Infrequent - Low Spender
+CUST01985,Loyal
+CUST01986,Infrequent - Low Spender
+CUST01987,Discount-sensitive
+CUST01988,Loyal
+CUST01989,Loyal
+CUST01990,Infrequent - Low Spender
+CUST01991,Loyal
+CUST01992,Loyal
+CUST01993,Infrequent - Low Spender
+CUST01994,Loyal
+CUST01995,At-Risk
+CUST01996,At-Risk
+CUST01997,Champion
+CUST01998,Infrequent - Low Spender
+CUST01999,Loyal
+CUST02000,At-Risk
+CUST02001,Champion
+CUST02002,Loyal
+CUST02003,At-Risk
+CUST02004,Champion
+CUST02005,Champion
+CUST02006,At-Risk
+CUST02007,At-Risk
+CUST02008,At-Risk
+CUST02009,Loyal
+CUST02010,At-Risk
+CUST02011,Recent Customer
+CUST02012,Champion
+CUST02013,Champion
+CUST02014,Champion
+CUST02015,At-Risk
+CUST02016,Champion
+CUST02017,Loyal
+CUST02018,Champion
+CUST02019,Infrequent - Low Spender
+CUST02020,Champion
+CUST02021,Infrequent - Low Spender
+CUST02022,Champion
+CUST02023,Champion
+CUST02024,Infrequent - Low Spender
+CUST02025,Infrequent - Low Spender
+CUST02026,Infrequent - Low Spender
+CUST02027,Loyal
+CUST02028,Recent Customer
+CUST02029,Loyal
+CUST02030,Infrequent - High Spender
+CUST02031,At-Risk
+CUST02032,At-Risk
+CUST02033,At-Risk
+CUST02034,Champion
+CUST02035,Dormant
+CUST02036,Champion
+CUST02037,Champion
+CUST02038,At-Risk
+CUST02039,At-Risk
+CUST02040,Champion
+CUST02041,Loyal
+CUST02042,Infrequent - Low Spender
+CUST02043,Champion
+CUST02044,Loyal
+CUST02045,Discount-sensitive
+CUST02046,At-Risk
+CUST02047,Infrequent - Low Spender
+CUST02048,At-Risk
+CUST02049,Infrequent - Low Spender
+CUST02050,Champion
+CUST02051,Loyal
+CUST02052,Loyal
+CUST02053,Loyal
+CUST02054,Champion
+CUST02055,Infrequent - Low Spender
+CUST02056,At-Risk
+CUST02057,Champion
+CUST02058,Champion
+CUST02059,Infrequent - Low Spender
+CUST02060,Champion
+CUST02061,Dormant
+CUST02062,At-Risk
+CUST02063,Infrequent - Low Spender
+CUST02064,Infrequent - Low Spender
+CUST02065,At-Risk
+CUST02066,Loyal
+CUST02067,Infrequent - Low Spender
+CUST02068,Champion
+CUST02069,At-Risk
+CUST02070,Loyal
+CUST02071,Champion
+CUST02072,Infrequent - Low Spender
+CUST02073,Champion
+CUST02074,Champion
+CUST02075,At-Risk
+CUST02076,At-Risk
+CUST02077,Loyal
+CUST02078,Infrequent - High Spender
+CUST02079,Infrequent - High Spender
+CUST02080,At-Risk
+CUST02081,At-Risk
+CUST02082,Recent Customer
+CUST02083,Champion
+CUST02084,At-Risk
+CUST02085,Champion
+CUST02086,Champion
+CUST02087,Champion
+CUST02088,Champion
+CUST02089,Champion
+CUST02090,Loyal
+CUST02091,Champion
+CUST02092,At-Risk
+CUST02093,Champion
+CUST02094,Recent Customer
+CUST02095,At-Risk
+CUST02096,Champion
+CUST02097,Loyal
+CUST02098,At-Risk
+CUST02099,Discount-sensitive
+CUST02100,Champion
+CUST02101,Infrequent - Low Spender
+CUST02102,Champion
+CUST02103,Champion
+CUST02104,Champion
+CUST02105,Infrequent - Low Spender
+CUST02106,Champion
+CUST02107,Recent Customer
+CUST02108,Infrequent - Low Spender
+CUST02109,Loyal
+CUST02110,Champion
+CUST02111,At-Risk
+CUST02112,At-Risk
+CUST02113,At-Risk
+CUST02114,Recent Customer
+CUST02115,At-Risk
+CUST02116,At-Risk
+CUST02117,Recent Customer
+CUST02118,Discount-sensitive
+CUST02119,Infrequent - Low Spender
+CUST02120,Infrequent - Low Spender
+CUST02121,Champion
+CUST02122,At-Risk
+CUST02123,At-Risk
+CUST02124,Champion
+CUST02125,Discount-sensitive
+CUST02126,At-Risk
+CUST02127,At-Risk
+CUST02128,Champion
+CUST02129,Recent Customer
+CUST02130,Loyal
+CUST02131,Infrequent - High Spender
+CUST02132,Champion
+CUST02133,Infrequent - Low Spender
+CUST02134,At-Risk
+CUST02135,Loyal
+CUST02136,Loyal
+CUST02137,Loyal
+CUST02138,At-Risk
+CUST02139,Champion
+CUST02140,Champion
+CUST02141,Loyal
+CUST02142,Loyal
+CUST02143,Loyal
+CUST02144,At-Risk
+CUST02145,At-Risk
+CUST02146,Recent Customer
+CUST02147,Discount-sensitive
+CUST02148,At-Risk
+CUST02149,Loyal
+CUST02150,At-Risk
+CUST02151,Loyal
+CUST02152,At-Risk
+CUST02153,Loyal
+CUST02154,Dormant
+CUST02155,At-Risk
+CUST02156,At-Risk
+CUST02157,Loyal
+CUST02158,Infrequent - High Spender
+CUST02159,Infrequent - High Spender
+CUST02160,Champion
+CUST02161,At-Risk
+CUST02162,Infrequent - Low Spender
+CUST02163,Discount-sensitive
+CUST02164,Loyal
+CUST02165,Champion
+CUST02166,Champion
+CUST02167,Champion
+CUST02168,At-Risk
+CUST02169,Dormant
+CUST02170,Discount-sensitive
+CUST02171,Recent Customer
+CUST02172,Infrequent - Low Spender
+CUST02173,Loyal
+CUST02174,Discount-sensitive
+CUST02175,Infrequent - High Spender
+CUST02176,Recent Customer
+CUST02177,At-Risk
+CUST02178,Champion
+CUST02179,Champion
+CUST02180,At-Risk
+CUST02181,Champion
+CUST02182,Loyal
+CUST02183,Loyal
+CUST02184,Discount-sensitive
+CUST02185,At-Risk
+CUST02186,Recent Customer
+CUST02187,At-Risk
+CUST02188,Discount-sensitive
+CUST02189,Dormant
+CUST02190,Discount-sensitive
+CUST02191,At-Risk
+CUST02192,Champion
+CUST02193,Champion
+CUST02194,Loyal
+CUST02195,Dormant
+CUST02196,At-Risk
+CUST02197,Champion
+CUST02198,At-Risk
+CUST02199,Dormant
+CUST02200,Infrequent - High Spender
+CUST02201,At-Risk
+CUST02202,Infrequent - High Spender
+CUST02203,Loyal
+CUST02204,At-Risk
+CUST02205,At-Risk
+CUST02206,At-Risk
+CUST02207,Infrequent - Low Spender
+CUST02208,At-Risk
+CUST02209,Champion
+CUST02210,At-Risk
+CUST02211,Champion
+CUST02212,Loyal
+CUST02213,Infrequent - Low Spender
+CUST02214,At-Risk
+CUST02215,Champion
+CUST02216,Discount-sensitive
+CUST02217,Champion
+CUST02218,Infrequent - Low Spender
+CUST02219,Champion
+CUST02220,Loyal
+CUST02221,Champion
+CUST02222,Recent Customer
+CUST02223,Champion
+CUST02224,At-Risk
+CUST02225,At-Risk
+CUST02226,Infrequent - High Spender
+CUST02227,Champion
+CUST02228,Discount-sensitive
+CUST02229,Loyal
+CUST02230,Champion
+CUST02231,Loyal
+CUST02232,Champion
+CUST02233,Discount-sensitive
+CUST02234,At-Risk
+CUST02235,Loyal
+CUST02236,At-Risk
+CUST02237,Champion
+CUST02238,Infrequent - Low Spender
+CUST02239,Champion
+CUST02240,Loyal
+CUST02241,Dormant
+CUST02242,Discount-sensitive
+CUST02243,At-Risk
+CUST02244,Infrequent - High Spender
+CUST02245,Loyal
+CUST02246,Dormant
+CUST02247,Loyal
+CUST02248,Recent Customer
+CUST02249,Loyal
+CUST02250,Champion
+CUST02251,At-Risk
+CUST02252,Loyal
+CUST02253,Infrequent - Low Spender
+CUST02254,Discount-sensitive
+CUST02255,Champion
+CUST02256,Champion
+CUST02257,Loyal
+CUST02258,At-Risk
+CUST02259,Champion
+CUST02260,Loyal
+CUST02261,Infrequent - Low Spender
+CUST02262,Recent Customer
+CUST02263,At-Risk
+CUST02264,Champion
+CUST02265,Champion
+CUST02266,Champion
+CUST02267,At-Risk
+CUST02268,At-Risk
+CUST02269,Infrequent - Low Spender
+CUST02270,At-Risk
+CUST02271,Recent Customer
+CUST02272,Infrequent - Low Spender
+CUST02273,At-Risk
+CUST02274,Loyal
+CUST02275,Champion
+CUST02276,At-Risk
+CUST02277,At-Risk
+CUST02278,Discount-sensitive
+CUST02279,Infrequent - Low Spender
+CUST02280,Discount-sensitive
+CUST02281,Recent Customer
+CUST02282,Champion
+CUST02283,Discount-sensitive
+CUST02284,Infrequent - High Spender
+CUST02285,Champion
+CUST02286,At-Risk
+CUST02287,At-Risk
+CUST02288,Infrequent - Low Spender
+CUST02289,Dormant
+CUST02290,Infrequent - Low Spender
+CUST02291,At-Risk
+CUST02292,Champion
+CUST02293,At-Risk
+CUST02294,Champion
+CUST02295,Champion
+CUST02296,Loyal
+CUST02297,Champion
+CUST02298,Dormant
+CUST02299,At-Risk
+CUST02300,Dormant
+CUST02301,Infrequent - High Spender
+CUST02302,Loyal
+CUST02303,Champion
+CUST02304,Champion
+CUST02305,Infrequent - Low Spender
+CUST02306,Loyal
+CUST02307,Champion
+CUST02308,Discount-sensitive
+CUST02309,At-Risk
+CUST02310,Champion
+CUST02311,At-Risk
+CUST02312,At-Risk
+CUST02313,At-Risk
+CUST02314,Champion
+CUST02315,Champion
+CUST02316,Champion
+CUST02317,Infrequent - Low Spender
+CUST02318,Loyal
+CUST02319,Champion
+CUST02320,Discount-sensitive
+CUST02321,At-Risk
+CUST02322,Champion
+CUST02323,Loyal
+CUST02324,At-Risk
+CUST02325,Infrequent - High Spender
+CUST02326,Champion
+CUST02327,At-Risk
+CUST02328,Champion
+CUST02329,Dormant
+CUST02330,Infrequent - Low Spender
+CUST02331,Loyal
+CUST02332,Loyal
+CUST02333,Champion
+CUST02334,Champion
+CUST02335,Champion
+CUST02336,Loyal
+CUST02337,Loyal
+CUST02338,Champion
+CUST02339,Infrequent - Low Spender
+CUST02340,Infrequent - Low Spender
+CUST02341,Champion
+CUST02342,Loyal
+CUST02343,Champion
+CUST02344,Champion
+CUST02345,Champion
+CUST02346,Infrequent - High Spender
+CUST02347,At-Risk
+CUST02348,Recent Customer
+CUST02349,Infrequent - High Spender
+CUST02350,Dormant
+CUST02351,At-Risk
+CUST02352,Champion
+CUST02353,At-Risk
+CUST02354,Champion
+CUST02355,Champion
+CUST02356,Champion
+CUST02357,Infrequent - Low Spender
+CUST02358,Loyal
+CUST02359,Champion
+CUST02360,Champion
+CUST02361,Champion
+CUST02362,Loyal
+CUST02363,Loyal
+CUST02364,At-Risk
+CUST02365,Infrequent - Low Spender
+CUST02366,At-Risk
+CUST02367,Infrequent - Low Spender
+CUST02368,At-Risk
+CUST02369,Champion
+CUST02370,Champion
+CUST02371,Infrequent - High Spender
+CUST02372,Champion
+CUST02373,Champion
+CUST02374,Loyal
+CUST02375,Loyal
+CUST02376,Champion
+CUST02377,Loyal
+CUST02378,Champion
+CUST02379,Discount-sensitive
+CUST02380,Discount-sensitive
+CUST02381,Champion
+CUST02382,At-Risk
+CUST02383,Discount-sensitive
+CUST02384,Loyal
+CUST02385,Champion
+CUST02386,Champion
+CUST02387,Recent Customer
+CUST02388,Loyal
+CUST02389,At-Risk
+CUST02390,At-Risk
+CUST02391,Loyal
+CUST02392,Discount-sensitive
+CUST02393,At-Risk
+CUST02394,Infrequent - Low Spender
+CUST02395,At-Risk
+CUST02396,Recent Customer
+CUST02397,Loyal
+CUST02398,Loyal
+CUST02399,At-Risk
+CUST02400,At-Risk
